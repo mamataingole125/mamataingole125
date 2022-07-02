@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about MERN
-- 📫 How to reach me: mamataingole125@gmail.com
-
-### Conect with me on:<a href="https://www.linkedin.com/in/mamata-ingole-53b5281b2/">
-<img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuHsjCaS2nx6MVYgzI37nHHeb5dqFuXZe9kvC1ukuKmdodn1_98-i&usqp=CAE&s"></img>
-</a>
+- 📫 How to reach me: mamataingole125@gmail.
  
 ### Tech Stack
 <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"></img>
@@ -31,5 +27,11 @@
 <img src="https://camo.githubusercontent.com/41326de293d3848e2ab0f29bf1680427128757fe6b586ceddf1097cb4eeb5ff7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c65642d2d636f6d706f6e656e74732d4442373039333f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465"></img>
 
 ### Let's Connect
+<a href="https://www.linkedin.com/in/mamata-ingole-53b5281b2/">
+<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></img>
+</a>
 
-<img src=""></img>
+<a href="https://mamata.vercel.app">
+<img src="https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465"></img>
+
+</a>
