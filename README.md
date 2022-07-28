@@ -1,9 +1,16 @@
 # Hi there 👋 I am Mamata Ingole
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;Front-end+Developer;)](https://git.io/typing-svg)
 
 ### I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications.
 
-- 🌱 I’m currently learning React
-- 💬 Ask me about MERN
+<img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="mamata" height="" width="300" alt="">
+
+## About me
+- 👋 Hello, Welcome to my profile
+- ⚡ I'm a passionate software developer
+- 🌱 I’m currently learning Data Structure and Algorithms,Node,Express,Mongo DB
+- 💬  Ask me about Web Development, Data Structure and Algorithms
+- 😎 I love Travelling, Listening Songs, and Watching movies
 - 📫 How to reach me: mamataingole125@gmail.
  
 ## Tech Stack
@@ -27,10 +34,12 @@
 <a href="https://www.linkedin.com/in/mamata-ingole-53b5281b2/">
 <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></img>
 </a>
+<a href="https://www.linkedin.com/in/mamata-ingole-53b5281b2/">
+<img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=#00C7B7"></img>
+</a>
 
-<a href="https://mamata.vercel.app">
+<a href="https://github.com/mamataingole125">
 <img src="https://camo.githubusercontent.com/56e6045a9403c591ff7c6a997edcd1566597519fa8b8e1129b4919bf10b5c2bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465"></img>
-
 </a>
 
 
