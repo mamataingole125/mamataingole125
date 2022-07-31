@@ -5,6 +5,9 @@
 
 <img align='right' src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="mamata" height="" width="300" alt="">
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamataingole125" alt="mamataingole125" /></a> </p>
+
 ## About me
 - 👋 Hello, Welcome to my profile
 - ⚡ I'm a passionate software developer
