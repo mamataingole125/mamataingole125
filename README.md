@@ -1,7 +1,7 @@
 # Hi there 👋 I am Mamata Ingole
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Software+Developer+Engineer;Front-end+Developer;)](https://git.io/typing-svg)
 
-### I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications.
+### I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications using JavaScript, HTML, CSS, React,etc. Ability to learn new technologies quickly, Capability to work in teams by providing Valuable Support.Looking forward to work on exciting projects that can help in making people's lives better and comfortable..
 
 
 <p align="left" margin-top="100px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamataingole125" alt="mamataingole125" /></a> </p>
