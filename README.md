@@ -18,7 +18,7 @@
 - 💬 Ask me about Web Development, Data Structure and Algorithms
 - 😎 I love Travelling, Listening Songs, and Watching movies
 - 📫 How to reach me: mamataingole125@gmail.
-- 📫you can find my blog here <a href="https://medium.com/me/stories/drafts">Blogs</a>
+- 📫you can find my blogs here <a href="https://medium.com/me/stories/drafts" target="_blank">Blogs</a>
  
  
  ## Let's Connect
