@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Data Structure and Algorithms,Node,Express,Mongo DB
 - 💬 Ask me about Web Development, Data Structure and Algorithms
 - 😎 I love Travelling, Listening Songs, and Watching movies
-- 📫 How to reach me: <a href="mamataingole125@gmail"> mamataingole125@gmail<a>.
+- 📫 How to reach me: <a href="mailto:mamataingole125@gmail.com"> mamataingole125@gmail<a>.
 - 📫you can find my blogs here <a href="https://medium.com/me/stories/drafts" target="_blank">Blogs</a>
  
  
